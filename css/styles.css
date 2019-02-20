@@ -1,0 +1,25 @@
+.social-part .fa{
+    padding-right:20px;
+
+}
+.social-part a{
+    color: black;
+}
+
+ul li a{
+    margin-right: 20px;
+}
+#main{
+    /* background-image: url('../images/musical.jpeg'); */
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+#welcome_text{
+    margin-left: 450px;
+    margin-top: 300px;
+}
+.in{
+    margin-left: 60px;
+}
